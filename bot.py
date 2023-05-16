@@ -62,7 +62,7 @@ pyrogram
 
 # Deploy the bot to Heroku
 
-heroku login:
+
 
 heroku create --region $heroku_region $heroku_app
 
